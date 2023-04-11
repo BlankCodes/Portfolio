@@ -1,2 +1,5 @@
-# https://blankcodes.github.io/Portfolio/
-Collection of all the skills I have and projects I have done.
+# Portfolio
+
+# To see the output 
+# [CLICK HERE](https://blankcodes.github.io/Portfolio/)
+#
